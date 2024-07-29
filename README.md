@@ -1,5 +1,17 @@
 # Capritios-Filter-Design
 
+
+All hints for beginner students
+
+Dr Mashhadi DSP course
+https://maktabkhooneh.org/course/%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84%D9%87%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-mk128/
+
+Dr Babaei Signal and System course
+https://maktabkhooneh.org/course/%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D9%88-%D8%B3%D9%8A%D8%B3%D8%AA%D9%85-mk75/
+
+
+Access link to all project files
+
 https://www.dropbox.com/scl/fo/mt1g6h3jwbwx92puptq15/ALdZ_4gDh8tkNat1FVmIRVI?rlkey=ln5rqhioth811w7kdaotnv03z&st=5ryrde2s&dl=0
 
 Capricious Digital Filter Design and Implementation Using
