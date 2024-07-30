@@ -1,5 +1,18 @@
 # Capritios-Filter-Design
 
+This github repository contains the project code, articles and dataset access link
+if you haven't access to drived files, send mail to author
+mehran.shoaee@gmail.com
+mehran.shoaei@srbiau.ac.ir
+
+The MATLAB code is available in ECG_Digita_Filter_Development_V3.m matlab code file
+this code is a sumulation of porposed filter design in MATLAB development environment
+the ECG Dataset that is used in project is available with acces link in google drive
+references artile
+
+
+These below persian courses is good for beginner persons who that intrested to understand this
+article, simulation and Digital Signal Processing.
 
 All hints for beginner students
 
